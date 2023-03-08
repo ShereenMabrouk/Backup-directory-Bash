@@ -1,0 +1,20 @@
+/home/shereen/Lab2/test/:
+total 20
+drwxrwxr-x 2 shereen shereen 4096 أكت 21 19:26 bb
+drwxrwxr-x 2 shereen shereen 4096 أكت 21 19:26 cc
+drwxrwxr-x 2 shereen shereen 4096 أكت 21 19:26 dd
+drwxrwxr-x 2 shereen shereen 4096 أكت 21 04:25 folder
+-rw-rw-r-- 1 shereen shereen    6 أكت 19 02:44 test.txt
+
+/home/shereen/Lab2/test/bb:
+total 0
+
+/home/shereen/Lab2/test/cc:
+total 0
+
+/home/shereen/Lab2/test/dd:
+total 0
+
+/home/shereen/Lab2/test/folder:
+total 4
+-rw-rw-r-- 1 shereen shereen 21 أكت 21 04:25 data.txt
